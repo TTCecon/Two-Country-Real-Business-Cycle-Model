@@ -3,10 +3,7 @@
 // This is a two country RBC model (non-linear adjust b) 
 // Replicate Iacoviello & Minetti (2006)"National Business Cycles With Domestic and Foreign Lenders"(JME)
 // This replicate of the model is two country RBC model with endogeneous alpha but without investment adjustment cost 
-// i代表Household面對的變數，如消費ci...f代表國外，如國外家戶房產數量hf
-//bH,bF為國內企業家面臨之借貸限制，其s.s.為bHs,bFs
-//bHf,bFf為國外企業家面臨之借貸限制，其s.s.為bHsf,bFsf
-//endogeneous alpha case and no adjustment costs
+// If you want to use this code,plz let me know:crownlun8@gmail.com
 
 var c ci h hi hf hif y yf cf cif bb bH bF bHf bFf q qf R alp alpf A Af; 
 varexo e_Af;
