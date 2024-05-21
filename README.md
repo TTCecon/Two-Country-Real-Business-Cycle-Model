@@ -4,7 +4,7 @@ This paper, authored by Matteo Iacoviello and Raoul Minetti, explores the intern
 
 ### How to Open Dynare in Matlab
 
-I make two version,include liner and non-liner version.To use Dynare within the Matlab environment, follow these steps:
+I make two version, include liner and non-liner version. To use Dynare within the Matlab environment, follow these steps:
 
 1. **Install Dynare**:
    - Download Dynare from the official [Dynare website](http://www.dynare.org).
